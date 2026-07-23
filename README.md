@@ -36,13 +36,6 @@ Welcome to my GitHub profile! I specialize in building robust backend systems, m
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hridoy4946&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ## 🌐 Connect with Me  
 
